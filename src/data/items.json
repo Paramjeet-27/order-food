@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Chapati",
+    "price": 5,
+    "quantity": 1,
+    "description": "A round flat unleavened bread of India that is usually made of whole wheat flour and cooked on a griddle.",
+    "imgSrc": "https://static01.nyt.com/images/2023/04/14/multimedia/14KOMOLAFE-rex1-chapa-mzjb/14KOMOLAFE-rex1-chapa-mzjb-mediumSquareAt3X.jpg"
+  },
+  {
+    "name": "Pickle",
+    "price": 10,
+    "quantity": 1,
+    "description": "A pickle is a food that's made by soaking vegetables in brine or vinegar. If you are wondering what that crunchy green wedge beside your sandwich is, it just may be a pickle.",
+    "imgSrc": "https://florafoods.in/wp-content/uploads/2022/05/Mekkekayi-Pickle-2-.png"
+  },
+  {
+    "name": "Curd",
+    "price": 30,
+    "quantity": 1,
+    "description": "Curd is obtained by coagulating milk in a sequential process called curdling. It can be a final dairy product or the first stage in cheesemaking.",
+    "imgSrc": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/05/how-to-make-curd-recipe-1.jpg"
+  },
+  {
+    "name": "Sweet",
+    "price": 45,
+    "quantity": 1,
+    "description": "Gulab jamun is an Indian dessert of fried dough balls that are soaked in a sweet, sticky sugar syrup. As per tradition, the syrup has a delicate rose flavour: Gulab means 'rose water' and jamun refers to a berry of a similar size and colour.",
+    "imgSrc": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/08/gulab-jamun-recipe-2-1.jpg"
+  },
+  {
+    "name": "Dal Makhni",
+    "price": 110,
+    "quantity": 1,
+    "description": "Traditional dal makhani is made with whole black lentils (urad dal, also known as black gram lentils), red kidney beans (rajma), butter, and cream.",
+    "imgSrc": "https://www.funfoodfrolic.com/wp-content/uploads/2023/04/Dal-Makhani-Blog.jpg"
+  },
+  {
+    "name": "Paneer",
+    "price": 250,
+    "quantity": 1,
+    "description": "An Indian vegetarian dish made with cottage cheese cooked with tomatoes-onions-bell peppers- and a blend of Indian spices.",
+    "imgSrc": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/kadai-paneer-recipe.jpg"
+  }
+]
